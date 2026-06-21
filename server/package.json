@@ -2,6 +2,6 @@
   "dependencies": {
     "express": "^4.17.2",
     "serialport": "^9.2.8",
-    "socket.io": "^4.4.0"
+    "socket.io": "^4.8.3"
   }
 }
